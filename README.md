@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renuka Achari</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-
-<img align="right" width=400 src="
+<h3 align="center">A passionate MERN developer from India </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renuka5637" alt="renuka5637" /></a> </p>
 
